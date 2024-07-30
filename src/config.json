@@ -1,0 +1,9 @@
+{
+  "token": "MTI2NjU5MTg4NDEwOTY3NjU4Nw.GIMm1B.BEXCYRYOB44uCWep1-cl0U34vH_WnI4CyTJECA",
+  "clientID": "1266591884109676587",
+  "sqlHost": "localhost",
+  "sqlUser": "root",
+  "sqlPass": "root",
+  "sqlPort": 3306,
+  "sqlDatabase": "VIPERDATA"
+}

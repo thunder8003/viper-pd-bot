@@ -1,0 +1,15 @@
+{
+  "name": "viper-pd-bot",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "author": "Luke Mahar",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "mysql2": "^3.10.3"
+  }
+}
